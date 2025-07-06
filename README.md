@@ -23,6 +23,8 @@ It uses the **TMDB API** to fetch and display movie data.
 ## 🔑 Setup Instructions
 
 1. Clone this repo:
+
    ```bash
+
    git clone https://github.com/your-username/movie-app-next-ts.git
    ```
