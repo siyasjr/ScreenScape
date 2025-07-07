@@ -26,12 +26,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" data-theme="dim" >
-      <body
-        className=" mx-75 py-4 h-screen border-0 rounded-2xl px-4"
-      >
-       <NavBar />
- 
+      <body className=" mx-75 py-4 h-screen border-0 rounded-2xl px-4">
+
+        <main >
+          <NavBar />
           {children}
+
+        </main>
+       
+ 
+          
 
       
 
