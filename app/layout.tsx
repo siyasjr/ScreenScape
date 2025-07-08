@@ -25,7 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" data-theme="dim" >
+    <html lang="en" data-theme="cupcake" >
       <body className=" mx-75 py-4 h-screen border-0 rounded-2xl px-4">
 
         <main >

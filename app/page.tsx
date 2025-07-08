@@ -12,7 +12,7 @@ const Home = () => {
 
    
     
-    <div className=' flex flex-wrap my-10 h-screen flex-row justify-between items-center gap-2'> 
+    <div className=' flex flex-wrap my-10  mx-10 h-screen flex-col items-center '> 
     <MovieCard/> 
     <MovieCard/> 
     <MovieCard/> 
