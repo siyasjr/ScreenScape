@@ -1,4 +1,4 @@
-# 🎬 Movie App (Next.js + TypeScript)
+# 🎬 MovieScape (Next.js + TypeScript)
 
 This is my **Next.js + TypeScript** implementation of the **Movie App** that I previously built using **React + Vite** and **JavaScript**.
 
