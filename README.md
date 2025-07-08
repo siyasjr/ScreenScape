@@ -1,4 +1,4 @@
-# 🎬 MovieScape (Next.js + TypeScript)
+# 🎬 ScreenScape (Next.js + TypeScript)
 
 This is my **Next.js + TypeScript** implementation of the **Movie App** that I previously built using **React + Vite** and **JavaScript**.
 
@@ -26,5 +26,5 @@ It uses the **TMDB API** to fetch and display movie data.
 
    ```bash
 
-   git clone https://github.com/your-username/movie-app-next-ts.git
+   
    ```
