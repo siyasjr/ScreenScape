@@ -4,6 +4,8 @@ This is my **Next.js + TypeScript** implementation of the **Movie App** that I p
 
 It uses the **TMDB API** to fetch and display movie data.
 
+---
+
 ## 🚀 Features
 
 - Built with **Next.js** (App Router)
@@ -13,6 +15,8 @@ It uses the **TMDB API** to fetch and display movie data.
 - Modular components and clean UI
 - Responsive design with **Tailwind CSS**
 
+---
+
 ## 🔧 Tech Stack
 
 - **Next.js**
@@ -20,11 +24,11 @@ It uses the **TMDB API** to fetch and display movie data.
 - **Tailwind CSS**
 - **TMDB API**
 
+---
+
 ## 🔑 Setup Instructions
 
-1. Clone this repo:
+1. Clone this repository:
 
    ```bash
-https://github.com/siyasjr/ScreenScape.git
-   
-   ```
+   git clone https://github.com/siyasjr/ScreenScape.git
