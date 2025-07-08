@@ -25,6 +25,6 @@ It uses the **TMDB API** to fetch and display movie data.
 1. Clone this repo:
 
    ```bash
-
+https://github.com/siyasjr/ScreenScape.git
    
    ```
