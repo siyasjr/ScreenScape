@@ -1,16 +1,22 @@
 import React from 'react'
 import HeartButton from './FavButton'
-
+import Image from 'next/image'
 const MovieCard = () => {
   return (
     <div className="w-full max-w-[180px] h-72 bg-base-200 shadow-md rounded-lg overflow-hidden relative mx-auto">
       {/* Poster */}
       <div className="relative h-[75%] w-full">
-        <img
-          src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-          alt="Movie Poster"
-          className="w-full h-full object-cover"
-        />
+
+      
+<Image
+  src="/nike.webp"
+  alt="Movie Poster"
+  width={300} // ✅ required
+  height={200} // ✅ required
+  className="w-full h-full object-cover"
+/>
+
+        
         <HeartButton />
       </div>
 
